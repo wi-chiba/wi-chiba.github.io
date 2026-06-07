@@ -6,3 +6,6 @@ summaryLength: 20
 #   googleAnalytics:
 #     id: G-MEASUREMENT_ID
 
+caches:
+  images:
+    dir: :cacheDir/images
