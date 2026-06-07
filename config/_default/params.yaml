@@ -1,0 +1,24 @@
+title: "Wisconsin-Chiba, Inc."
+description: "Furthering the Wisconsin and Chiba sister-state relationship."
+images: 
+  - "images/home/hero/bill-sitting.png"
+
+# logo: "images/shared/logo.png"
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#000000"
+
+contact:
+  - "trungkienspktnd@gamail.com"
+  - "207.555.0119"
+
+social:
+  dribbble: "#"
+  instagram: "#"
+  facebook: "#"
+  twitter: "#"
+
+copyright: "© 2022 Agency Web All Rights Reserved"
+

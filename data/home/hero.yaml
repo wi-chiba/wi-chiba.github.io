@@ -1,0 +1,35 @@
+enable: true
+
+title: "Furthering the Wisconsin and Chiba sister-state relationship."
+text: "Wisconsin-Chiba, Inc. is a non-profit dedicated to organizing cultural exchanges between Wisconsin and the Japanese prefecture of Chiba."
+
+buttons:
+  - label: "Contact Us"
+    link: "/contact"
+
+#  - label: "View More"
+#    link: ""
+
+image: "images/home/hero/bill-sitting.png"
+
+items:
+  - icon: "fas fa-user"
+    color: "#4628A4"
+    title: "Annual Delegations"
+    text: ""
+
+  - icon: "fas fa-user"
+    color: "#5FC300"
+    title: "Language Teacher Exchanges"
+    text: ""
+
+  - icon: "fas fa-user"
+    color: "#00329B"
+    title: "Cultural Events"
+    text: ""
+
+#  - icon: "fas fa-user"
+#    color: "#BB3800"
+#    title: "Mobile Applications"
+#    text: ""
+

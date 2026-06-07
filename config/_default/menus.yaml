@@ -1,0 +1,50 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+
+  - name: "What We Do"
+    url: "/what-we-do"
+    weight: 2
+
+  - name: "History"
+    url: "/history"
+    weight: 3
+
+  - name: "News"
+    url: "/news"
+    weight: 4
+
+  - name: "Donate"
+    url: "/donate"
+    weight: 5
+
+buttons:
+  - name: "Contact Us"
+    url: "/contact"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+
+  - name: "What We Do"
+    url: "/what-we-do"
+    weight: 2
+
+  - name: "History"
+    url: "/history"
+    weight: 3
+
+  - name: "News"
+    url: "/news"
+    weight: 4
+
+  - name: "Donate"
+    url: "/donate"
+    weight: 5
+
+  - name: "Contact Us"
+    url: "/contact"
+    weight: 6
