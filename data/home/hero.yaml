@@ -10,7 +10,7 @@ buttons:
 #  - label: "View More"
 #    link: ""
 
-image: "images/home/hero/bill-sitting.png"
+image: "images/wi-chiba-logo.png"
 
 items:
   - icon: "fas fa-user"

@@ -3,24 +3,21 @@ enable: true
 contact:
   title: "Contact"
   items:
-    - label: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-      link: ""
-
-    - label: "+908 89097 890"
-      link: ""
+    - label: "Email: contact@wi-chiba.org"
+      link: "mailto:contact@wi-chiba.org"
 
 social:
   - title: "Facebook"
     icon: "fa-brands fa-facebook"
-    link: "#"
-  - title: "Twitter"
-    icon: "fa-brands fa-twitter"
-    link: "#"
-  - title: "Instagram"
-    icon: "fa-brands fa-instagram"
-    link: "#"
+    link: "https://www.facebook.com/profile.php?id=61582717805934"
+#  - title: "Twitter"
+#    icon: "fa-brands fa-twitter"
+#    link: "#"
+#  - title: "Instagram"
+#    icon: "fa-brands fa-instagram"
+#    link: "#"
   - title: "LinkedIn"
     icon: "fa-brands fa-linkedin"
-    link: "#"
+    link: "https://www.linkedin.com/company/wisconsin-chiba-inc/"
 
-copyright: "Copyright ® 2021 Lorem All rights Rcerved"
+copyright: "Copyright ® 20226 Wisconsin-Chiba, Inc. All Rights Reserved."
