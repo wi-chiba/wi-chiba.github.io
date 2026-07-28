@@ -3,7 +3,7 @@ enable: true
 contact:
   title: "Contact"
   items:
-    - label: "Email: contact@wi-chiba.org"
+    - label: "contact@wi-chiba.org"
       link: "mailto:contact@wi-chiba.org"
 
 social:
