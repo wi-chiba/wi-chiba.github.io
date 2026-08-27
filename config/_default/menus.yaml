@@ -11,22 +11,18 @@ main:
     url: "/what-we-do"
     weight: 3
 
-  - name: "History"
-    url: "/history"
+  - name: "Chiba Prefecture"
+    url: "/chiba-prefecture"
     weight: 4
-
-  - name: "News"
-    url: "/news"
-    weight: 5
 
   - name: "Donate"
     url: "/donate"
-    weight: 6
+    weight: 5
 
 buttons:
   - name: "Contact Us"
     url: "/contact"
-    weight: 7
+    weight: 6
 
 footer:
   - name: "Home"
@@ -41,13 +37,9 @@ footer:
     url: "/what-we-do"
     weight: 3
 
-  - name: "History"
-    url: "/history"
+  - name: "Chiba Prefecture"
+    url: "/chiba-prefecture"
     weight: 4
-
-  - name: "News"
-    url: "/news"
-    weight: 5
 
   - name: "Donate"
     url: "/donate"

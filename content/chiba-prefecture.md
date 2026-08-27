@@ -1,6 +1,6 @@
 ---
-slug: "about-chiba"
-title: "About Chiba"
+slug: "chiba-prefecture"
+title: "Chiba Prefecture"
 date: 2026-06-07T14:55:44-04:00
 draft: false
 ---
