@@ -26,3 +26,16 @@ The Wisconsin-Chiba sister-state relationship was officially established in 1990
 As the driving force on the American side, **Wisconsin-Chiba, Inc. (WCI)** operates as a dedicated nonprofit organization focused on sponsoring and arranging these vital cultural exchanges. Based in Walworth, Wisconsin, WCI coordinates everything from sending Wisconsin Goodwill Delegations to Japan to warmly hosting Chiba delegates right here in our state. Through decades of facilitating youth exchange programs, home stays, and local community events, our organization provides Wisconsinites with authentic opportunities to experience Japanese traditions firsthand. In recognition of this unwavering commitment, WCI was honored with the Japanese Minister of Foreign Affairs' Commendation for its long-standing support in promoting international friendship.
 
 To support and expand these efforts across the Pacific, our Japanese counterpart—often recognized as Chiba-WI, Inc., and officially operating as the **Chiba-Wisconsin Association (CWA)**—was founded in 2004. Working hand-in-hand with WCI, this dedicated point of contact in Japan ensures that our collaborative momentum never slows down. They coordinate reciprocal activities in Chiba, ranging from welcoming our delegations with incredible hospitality to supporting Wisconsin's Assistant Language Teachers (ALTs) working in Japanese schools. Together, WCI and our partners in Chiba maintain a seamless, continuous exchange of culture, food, and education, ensuring the historic bond between Wisconsin and Chiba continues to thrive for generations.
+
+## Board of Directors
+
+* Alexander P. Durtka, Jr, Secretary
+* Brian Knox II
+* Fumiko Miyazaki
+* Kimiko Miyazaki
+* Gerald Mullins
+* RJ Nowling
+* Kathryn Nymruch, Vice President
+* Daniel Schmitt, President
+* Jack Takahashi
+* Ryohei (Roy) F Tsuji, Treasurer
