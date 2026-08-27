@@ -1,0 +1,13 @@
+---
+slug: "about-chiba"
+title: "About Chiba"
+date: 2026-06-07T14:55:44-04:00
+draft: false
+---
+
+Located just east of Tokyo, **Chiba Prefecture** primarily occupies the sprawling Boso Peninsula, bordered by the vast Pacific Ocean and the bustling Tokyo Bay. Because it is home to Narita International Airport, Chiba is usually the very first place American travelers step foot when arriving in Japan. It is also the site of the world-famous Tokyo Disney Resort, drawing millions of international visitors every year. Beyond these modern attractions, the region’s geography—a mix of rolling hills, flat plains, and coastal waters—provides excellent marine leisure, fresh seafood, and highly productive farmland. In fact, Chiba proudly stands as Japan’s second-largest agricultural producer, famously known nationwide for its high-quality peanuts, diverse vegetable crops, and beautiful coastal landscapes.
+
+Beneath its agricultural charm and natural beauty, Chiba operates as an undisputed economic powerhouse driven by a massive and highly developed manufacturing sector. The **Keiyo Industrial Zone** stretches continuously along the coast of Tokyo Bay and stands as a major global hub for heavy industry and material production. This densely concentrated strip is packed with sprawling steelworks, advanced petrochemical plants, large oil refineries, and crucial electric power generation facilities. These large-scale operations consistently rank Chiba among Japan’s top industrial and commercial regions by overall shipment value. The prefecture seamlessly balances this industrial might with dynamic global commerce, supported by its international aviation logistics and major deep-water sea ports that connect Japanese manufacturing to the rest of the world.
+
+For Americans living in the Midwest, Chiba shares a surprisingly special and long-standing bond with the state of **Wisconsin**. The two regions officially established a formal sister-state relationship in 1990, fostering decades of cross-cultural, educational, and economic exchanges. The most famous and enduring corporate connection between the two is the Kikkoman Corporation, a global soy sauce powerhouse rooted in Chiba. In 1973, Kikkoman expanded its reach by establishing its premier North American production facility in Walworth, Wisconsin, bringing authentic brewing techniques to the American heartland. This incredibly successful business partnership beautifully bridges centuries-old Japanese culinary traditions with American manufacturing, highlighting the deep-rooted friendship and mutual investment that continues to thrive between Chiba and its American sister state.
+
