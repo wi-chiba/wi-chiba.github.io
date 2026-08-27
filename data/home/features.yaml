@@ -1,30 +1,13 @@
-enable: false
+enable: true
 
-title: "Lorem Ipsum is simply dummy text of the printing. "
-text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's"
+title: ""
+text: ""
 
 items:
   - icon: "fas fa-user"
     color: "#08D3BB"
-    pretitle: "Lorem Ipsum is simply dummy text"
-    pretext: "Lorem Ipsum is simply dummy text"
-    title: "**Lorem Ipsum** is simply dummy text of the printing. "
-    text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
-    image: "images/home/features/features-1.png"
-
-  - icon: "fas fa-user"
-    color: "#1090CB"
-    pretitle: "Lorem Ipsum is simply dummy text"
-    pretext: "Lorem Ipsum is simply dummy text"
-    title: "**Lorem Ipsum** is simply dummy text of the printing. "
-    text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
-    image: "images/home/features/features-2.png"
-
-  - icon: "fas fa-user"
-    color: "#9208D3"
-    pretitle: "Lorem Ipsum is simply dummy text"
-    pretext: "Lorem Ipsum is simply dummy text"
-    title: "**Lorem Ipsum** is simply dummy text of the printing. "
-    text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
-    image: "images/home/features/features-3.png"
-
+    pretitle: ""
+    pretext: ""
+    title: "Meeting with Chiba Prefectural Government Representatives"
+    text: "President Daniel Schmitt meeting with representatives of the Chiba Prefectural Government to hear about their plans for furthering educational exchange with Wisconsin and discuss the ways we can support the program."
+    image: "images/home/features/schmitt-chiba-reps.jpg.png"
