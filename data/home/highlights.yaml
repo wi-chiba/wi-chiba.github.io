@@ -1,14 +1,9 @@
 enable: true
 
 items:
+  - title: ""
+    text: "President Daniel Schmitt meeting with representatives of the Chiba Prefectural Government to hear about their plans for furthering educational exchange with Wisconsin and discuss the ways we can support the program."
+    image: "images/home/highlights/schmitt-chiba-reps.jpg"
+    
   - title: "Lorem ipsum is simply dummy text"
     text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
-    button:
-      label: "View More"
-      link: "#"
-
-  - title: "Lorem ipsum is simply dummy text"
-    text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
-    button:
-      label: "View More"
-      link: "#"
