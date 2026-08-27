@@ -5,9 +5,17 @@ text: ""
 
 items:
   - icon: "fas fa-user"
-    color: "#08D3BB"
+    color: "#0077b6"
     pretitle: ""
     pretext: ""
     title: "Meeting with Chiba Prefectural Government Representatives"
     text: "President Daniel Schmitt meeting with representatives of the Chiba Prefectural Government to hear about their plans for furthering educational exchange with Wisconsin and discuss the ways we can support the program."
     image: "images/home/features/schmitt-chiba-reps.jpg"
+
+  - icon: "fas fa-user"
+    color: "#0077b6"
+    pretitle: ""
+    pretext: ""
+    title: "Planning for the Inbound Sister State Delegation"
+    text: "President Daniel Schmitt, Vice President Kathryn Numrych, and Secretary Alexander P. Durtka, Jr. meeting to Planning for the inbound October 2026 sister-state delegation from Chiba Prefecture."
+    image: "images/home/features/daniel-kathryn-al.jpg"
