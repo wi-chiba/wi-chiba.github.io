@@ -1,4 +1,4 @@
-theme: "github.com/writeonlycode/hugo-agency-web"
+theme: "github.com/wi-chiba/hugo-agency-web"
 locale: "en-us"
 
 build:
@@ -17,7 +17,7 @@ module:
     min: "0.147.8"
 
   imports:
-    - path: github.com/writeonlycode/hugo-agency-web
+    - path: github.com/wi-chiba/hugo-agency-web
 
   mounts:
     - source: 'hugo_stats.json'
