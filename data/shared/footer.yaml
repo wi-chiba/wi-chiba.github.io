@@ -3,8 +3,8 @@ enable: true
 contact:
   title: "Contact"
   items:
-    - label: "contact@wi-chiba.org"
-      link: "mailto:contact@wi-chiba.org"
+    - label: "president@wi-chiba.org"
+      link: "mailto:president@wi-chiba.org"
 
 social:
   - title: "Facebook"
@@ -20,4 +20,4 @@ social:
     icon: "fa-brands fa-linkedin"
     link: "https://www.linkedin.com/company/wisconsin-chiba-inc/"
 
-copyright: "Copyright ® 20226 Wisconsin-Chiba, Inc. All Rights Reserved."
+copyright: "Copyright ® 2026 Wisconsin-Chiba, Inc. All Rights Reserved."
