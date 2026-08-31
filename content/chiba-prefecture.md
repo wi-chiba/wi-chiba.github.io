@@ -11,4 +11,4 @@ Beneath its agricultural charm and natural beauty, Chiba operates as an undisput
 
 For Americans living in the Midwest, Chiba shares a surprisingly special and long-standing bond with the state of **Wisconsin**. The two regions officially established a formal sister-state relationship in 1990, fostering decades of cross-cultural, educational, and economic exchanges. The most famous and enduring corporate connection between the two is the Kikkoman Corporation, a global soy sauce powerhouse rooted in Chiba. In 1973, Kikkoman expanded its reach by establishing its premier North American production facility in Walworth, Wisconsin, bringing authentic brewing techniques to the American heartland. This incredibly successful business partnership beautifully bridges centuries-old Japanese culinary traditions with American manufacturing, highlighting the deep-rooted friendship and mutual investment that continues to thrive between Chiba and its American sister state.
 
-![Chiba-Wisconsin sister-state plaque in Chiba](images/about-chiba/chiba-plaque.jpg)
+![Chiba-Wisconsin sister-state plaque in Chiba](/images/about-chiba/chiba-plaque.jpg)
