@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wi-chiba/hugo-agency-web@v0.0.0-20260831002032-030fbbaccbf1/assets/*"
+    "../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wi-chiba/hugo-agency-web@v0.0.0-20260831002825-12fbcf9d829a/assets/*"
    ]
   }
  }
