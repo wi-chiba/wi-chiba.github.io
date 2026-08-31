@@ -29,13 +29,13 @@ To support and expand these efforts across the Pacific, our Japanese counterpart
 
 ## Board of Directors
 
+* Daniel Schmitt, President
+* Kathryn Nymruch, Vice President
 * Alexander P. Durtka, Jr, Secretary
+* Ryohei (Roy) F Tsuji, Treasurer
 * Brian Knox II
 * Fumiko Miyazaki
 * Kimiko Miyazaki
 * Gerald Mullins
 * RJ Nowling
-* Kathryn Nymruch, Vice President
-* Daniel Schmitt, President
 * Jack Takahashi
-* Ryohei (Roy) F Tsuji, Treasurer
