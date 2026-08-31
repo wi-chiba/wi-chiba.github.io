@@ -15,7 +15,6 @@ main:
     url: "/donate"
     weight: 4
 
-buttons:
   - name: "Contact Us"
     url: "/contact"
     weight: 5
