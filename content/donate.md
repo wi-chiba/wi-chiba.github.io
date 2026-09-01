@@ -9,6 +9,6 @@ further the sister-state relationship between Wisconsin and Chiba Prefecture.
 
 To donate, please send a check to:
 
-Wisconsin Chiba, Inc. \
+Wisconsin-Chiba, Inc. \
 P.O. Box 69 \
 Walworth, WI 53184
