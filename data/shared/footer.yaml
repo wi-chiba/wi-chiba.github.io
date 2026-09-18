@@ -3,8 +3,8 @@ enable: true
 contact:
   title: "Contact Us"
   items:
-    - label: "president@wi-chiba.org"
-      link: "mailto:president@wi-chiba.org"
+    - label: "contact@wi-chiba.org"
+      link: "mailto:contact@wi-chiba.org"
 
 social:
   - title: "Facebook"
