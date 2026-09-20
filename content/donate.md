@@ -17,7 +17,7 @@ To donate online, please use the following Paypal link:
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-If you wish to donate using a check, please it to the following address:
+If you wish to donate using a check, please mail it to the following address:
 
 Wisconsin-Chiba, Inc. \
 P.O. Box 69 \
