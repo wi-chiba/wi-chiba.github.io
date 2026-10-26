@@ -20,6 +20,6 @@ To donate online, please use the following Paypal link:
 If you wish to donate using a check, please mail it to the following address:
 
 Wisconsin-Chiba, Inc. \
-c/o Kikkoman Foods, Inc.
+c/o Kikkoman Foods, Inc. \
 N1365 Six Corners Rd, \
 Walworth, WI 53184
